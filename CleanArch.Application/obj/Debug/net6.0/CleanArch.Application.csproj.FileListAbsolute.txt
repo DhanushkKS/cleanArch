@@ -1,0 +1,15 @@
+D:\projects\ITX360\CleanArch\CleanArch.Application\bin\Debug\net6.0\CleanArch.Application.deps.json
+D:\projects\ITX360\CleanArch\CleanArch.Application\bin\Debug\net6.0\CleanArch.Application.dll
+D:\projects\ITX360\CleanArch\CleanArch.Application\bin\Debug\net6.0\CleanArch.Application.pdb
+D:\projects\ITX360\CleanArch\CleanArch.Application\bin\Debug\net6.0\CleanArch.Domain.dll
+D:\projects\ITX360\CleanArch\CleanArch.Application\bin\Debug\net6.0\CleanArch.Domain.pdb
+D:\projects\ITX360\CleanArch\CleanArch.Application\obj\Debug\net6.0\CleanArch.Application.csproj.AssemblyReference.cache
+D:\projects\ITX360\CleanArch\CleanArch.Application\obj\Debug\net6.0\CleanArch.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\ITX360\CleanArch\CleanArch.Application\obj\Debug\net6.0\CleanArch.Application.AssemblyInfoInputs.cache
+D:\projects\ITX360\CleanArch\CleanArch.Application\obj\Debug\net6.0\CleanArch.Application.AssemblyInfo.cs
+D:\projects\ITX360\CleanArch\CleanArch.Application\obj\Debug\net6.0\CleanArch.Application.csproj.CoreCompileInputs.cache
+D:\projects\ITX360\CleanArch\CleanArch.Application\obj\Debug\net6.0\CleanArch.Application.csproj.CopyComplete
+D:\projects\ITX360\CleanArch\CleanArch.Application\obj\Debug\net6.0\CleanArch.Application.dll
+D:\projects\ITX360\CleanArch\CleanArch.Application\obj\Debug\net6.0\refint\CleanArch.Application.dll
+D:\projects\ITX360\CleanArch\CleanArch.Application\obj\Debug\net6.0\CleanArch.Application.pdb
+D:\projects\ITX360\CleanArch\CleanArch.Application\obj\Debug\net6.0\ref\CleanArch.Application.dll

@@ -5,15 +5,28 @@ namespace CleanArch.Infrastructure;
 
 public class MovieRepository : IMovieRepository
 {
-    public static List<Movie> Movies = new List<Movie>()
-    {
-        new Movie{Id = 1,Name = "Main Hoon Na",Cost = 2},
-        new Movie{Id = 2,Name = "Kal Hoo Na",Cost = 12},
-        new Movie{Id = 3,Name = "Lucy",Cost = 2},
+  
 
-    };
+    private readonly MovieDbContext _movieDbContext;
+    public MovieRepository(MovieDbContext movieDbContext)
+    {
+        _movieDbContext = movieDbContext;
+    }
     public List<Movie> GetAllMovies()
     {
-        return Movies;
+     return   _movieDbContext.Movies.ToList();
+    }
+
+    public Movie GetMovieById(int Id)
+    {
+        Movie movie = _movieDbContext.Movies.FirstOrDefault(m => m.MovieId == Id);
+        return movie;
+    }
+
+    public Movie CreateMovie(Movie movie)
+    {
+        _movieDbContext.Movies.Add(movie);
+        _movieDbContext.SaveChanges();
+        return movie;
     }
 }

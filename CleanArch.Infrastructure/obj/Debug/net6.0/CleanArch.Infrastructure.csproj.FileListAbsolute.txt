@@ -15,3 +15,5 @@ D:\projects\ITX360\CleanArch\CleanArch.Infrastructure\obj\Debug\net6.0\CleanArch
 D:\projects\ITX360\CleanArch\CleanArch.Infrastructure\obj\Debug\net6.0\refint\CleanArch.Infrastructure.dll
 D:\projects\ITX360\CleanArch\CleanArch.Infrastructure\obj\Debug\net6.0\CleanArch.Infrastructure.pdb
 D:\projects\ITX360\CleanArch\CleanArch.Infrastructure\obj\Debug\net6.0\ref\CleanArch.Infrastructure.dll
+D:\projects\ITX360\CleanArch\CleanArch.Infrastructure\bin\Debug\net6.0\CleanArch.Infrastructure.runtimeconfig.json
+D:\projects\ITX360\CleanArch\CleanArch.Infrastructure\obj\Debug\net6.0\CleanArch.Infrastructure.genruntimeconfig.cache

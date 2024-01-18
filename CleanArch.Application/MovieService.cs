@@ -17,4 +17,9 @@ public class MovieService :IMovieService
         var movies = _movieRepository.GetAllMovies();
         return movies;
     }
+
+    public Movie CreateMovie(Movie movie)
+    {
+        return _movieRepository.CreateMovie(movie);
+    }
 }
